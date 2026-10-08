@@ -5,4 +5,7 @@
     <Project Path="src/ReveilMusical.Domain/ReveilMusical.Domain.csproj" />
     <Project Path="src/ReveilMusical.Infrastructure/ReveilMusical.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ReveilMusical.UnitTests/ReveilMusical.UnitTests.csproj" />
+  </Folder>
 </Solution>
