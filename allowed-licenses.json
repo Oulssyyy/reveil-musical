@@ -1,0 +1,9 @@
+{
+  "allowed": ["MIT", "Apache-2.0", "BSD-2-Clause", "BSD-3-Clause", "ISC", "0BSD"],
+  "maxAgeYears": 3,
+  "reviewed": {
+    "Castle.Core": "Dépendance de test (via NSubstitute). Apache-2.0. 5.1.1 date de 2022 : version minimale imposée par NSubstitute, revue OK.",
+    "Microsoft.Bcl.AsyncInterfaces": "Dépendance de test (via Castle.Core). MIT. Polyfill net6, sans effet sur net10.",
+    "Microsoft.Win32.Registry": "Dépendance de test (via Microsoft.Testing.Platform). MIT. Dernière version publiée : le paquet n'évolue plus, l'API est intégrée au runtime."
+  }
+}
