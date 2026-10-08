@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Le domaine ne dépend d'aucun paquet externe : seulement de la BCL .NET. -->
+
+</Project>
