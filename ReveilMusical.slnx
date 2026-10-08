@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/ReveilMusical.Application/ReveilMusical.Application.csproj" />
     <Project Path="src/ReveilMusical.Domain/ReveilMusical.Domain.csproj" />
   </Folder>
 </Solution>
